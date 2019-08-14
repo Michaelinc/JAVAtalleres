@@ -10,9 +10,9 @@ package com.incoorp.creacionfactura;
  * @author michael
  */
 public class Pedidos {
-    int cantidad;
-    String descripcion;
-    double precioU;
+    private int cantidad;
+    private String descripcion;
+    private double precioU;
 
     public Pedidos(int cantidad, String descripcion, double precioU) {
         this.cantidad = cantidad;

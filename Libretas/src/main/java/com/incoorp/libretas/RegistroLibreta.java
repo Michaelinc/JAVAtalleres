@@ -11,10 +11,10 @@ package com.incoorp.libretas;
  */
 public class RegistroLibreta {
     
-    String nombre;
-    String direccion;
-    int telefono;
-    String email;
+    private String nombre;
+    private String direccion;
+    private int telefono;
+    private String email;
 
     public RegistroLibreta() {
     }

@@ -12,9 +12,9 @@ import java.util.ArrayList;
  * @author michael
  */
 public class Factura extends Precio{
-    Agente emisor;
-    Agente cliente;
-    ArrayList<Pedidos> Listapedidos; 
+    private Agente emisor;
+    private Agente cliente;
+    private ArrayList<Pedidos> Listapedidos; 
 
     public Factura() {
     }

@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class LibretaDirecciones {
     
-    ArrayList<RegistroLibreta> lista;  
+    private ArrayList<RegistroLibreta> lista;  
 
     public ArrayList<RegistroLibreta> getLista() {
         return lista;

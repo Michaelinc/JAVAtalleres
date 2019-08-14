@@ -10,10 +10,10 @@ package com.incoorp.creacionfactura;
  * @author michael
  */
 public class Agente {
-    String nombre;
-    String nit;
-    String email;
-    int telefono;
+    private String nombre;
+    private String nit;
+    private String email;
+    private int telefono;
 
     public Agente() {
     }

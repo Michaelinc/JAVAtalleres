@@ -10,7 +10,7 @@ package com.incoorp.creacionfactura;
  * @author michael
  */
 public class Precio {
-    public double pesos;
+    private double pesos;
     public double getPesos() {
         return pesos;
     }
